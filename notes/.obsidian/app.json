@@ -1,8 +1,6 @@
 {
   "promptDelete": false,
   "mobileToolbarCommands": [
-    "editor:insert-embed",
-    "editor:insert-tag",
     "editor:attach-file",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
@@ -11,8 +9,8 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar",
-    "editor:insert-wikilink",
-    "editor:insert-link"
+    "editor:insert-table",
+    "editor:insert-link",
+    "editor:configure-toolbar"
   ]
 }

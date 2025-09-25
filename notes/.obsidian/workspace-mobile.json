@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todos"
-            }
-          },
-          {
-            "id": "4feaa8e3b432cd62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "คชจ. ฟิว.md",
                 "mode": "source",
                 "source": false
@@ -62,9 +48,37 @@
               "icon": "lucide-file",
               "title": "แผนปะป้า"
             }
+          },
+          {
+            "id": "b38d6c015f4e5e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todos"
+            }
+          },
+          {
+            "id": "ddaa23ab1b0d6edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "มาม้าน้าญิ๋ง.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "มาม้าน้าญิ๋ง"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Note 2.md",
+            "file": "มาม้าน้าญิ๋ง.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -194,17 +208,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "855683edb4af962d",
+  "active": "ddaa23ab1b0d6edc",
   "lastOpenFiles": [
+    "Todos.md",
+    "มาม้าน้าญิ๋ง.md",
+    "20250923_081835.jpg",
+    "20250923_081843 1.jpg",
+    "20250923_081843.jpg",
     "คชจ. ฟิว.md",
+    "แผนปะป้า.md",
     "bank.md",
     "london.md",
-    "Todos.md",
-    "แผนปะป้า.md",
     "2025-05-25.md",
     "Note 1.md",
     "Untitled 5.md",
@@ -226,8 +243,6 @@
     "2025-08-10.md",
     "20250810_171829.jpg",
     "2025-08-09.md",
-    "2025-08-08.md",
-    "2025-08-07.md",
     "343973322-52f34f72-cd75-44cb-89dc-30e63635191e.png",
     "Screenshot_20240505-130654_Roblox.jpg",
     "Untitled.canvas"
